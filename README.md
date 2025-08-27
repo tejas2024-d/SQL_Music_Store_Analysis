@@ -72,4 +72,4 @@ A complete SQL analysis project on the Chinook digital music store dataset using
 - Typical business questions and deliverables for a “Digital Music Store Data Analysis” project using PostgreSQL and pgAdmin 4.
 
 ## Schema- Music Store Database 
-![MusicDatabaseScema] (https://github.com/tejas2024-d/SQL_Music_Store_Analysis/blob/main/schema_diagram.png)
+![MusicDatabaseScema](https://github.com/tejas2024-d/SQL_Music_Store_Analysis/blob/main/schema_diagram.png)
